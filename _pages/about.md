@@ -9,16 +9,16 @@ redirect_from:
 ---
 I am currently an Associate Professor with [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/). I received the Ph.D. degree from [City University of Hong Kong](https://www.cityu.edu.hk/) under the supervision of [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow). the B.S. degree from [Tianjin University of Technology](https://www.tjut.edu.cn/) and the M.S. degree from [Ningbo University](https://www.nbu.edu.cn/) under the supervision of Prof. Gangyi Jiang. From Sep. 2011 to Jun. 2013, I was a visiting student in SIAT, CAS under the supervision of Prof. Yun Zhang.
 
----
+
 Education
----
+======
 2016.01 – 2019.02, Doctor of Philosophy, Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/), supervisor: Prof. Sam Kwong.
 2010.09 – 2013.06, Master of Engineering, Faculty of Information Science and Engineering, [Ningbo University](https://www.nbu.edu.cn/), supervisor: Prof. Gangyi Jiang.
 2006.09 – 2010.06, Bachelor of Science, College of Science, [Tianjin University of Technology](https://www.tjut.edu.cn/).
 
----
+
 Work Experience
----
+======
 2022.12 - Present, Associate Professor. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
 2021.08 - 2022.11, Assistant Professor. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
 2018.11 - 2021.07, Postdoctoral Fellow. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
