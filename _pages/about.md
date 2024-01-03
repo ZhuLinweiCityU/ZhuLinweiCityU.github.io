@@ -19,8 +19,8 @@ Education
 
 Work Experience
 ======
-2022.12 - Present, Associate Professor. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
-2021.08 - 2022.11, Assistant Professor. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
-2018.11 - 2021.07, Postdoctoral Fellow. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
-2013.07 – 2016.01, Research Assistant. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
-2011.09 – 2013.06, Visiting Student. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
+1. 2022.12 - Present, Associate Professor. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
+1. 2021.08 - 2022.11, Assistant Professor. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
+1. 2018.11 - 2021.07, Postdoctoral Fellow. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
+1. 2013.07 – 2016.01, Research Assistant. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
+1. 2011.09 – 2013.06, Visiting Student. [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
