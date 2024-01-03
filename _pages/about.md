@@ -13,7 +13,7 @@ I am currently an Associate Professor with [Shenzhen Institute of Advanced Techn
 Education
 ======
 * 2016.01 – 2019.02, Doctor of Philosophy, Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/), supervisor: Prof. Sam Kwong.
-* 2011.09 – 2013.06, Visiting Student. [SIAT, CAS](https://www.siat.ac.cn/), supervisor: Prof. Yun Zhang.
+* 2011.09 – 2013.06, Visiting Student. [SIAT, CAS](https://www.siat.ac.cn/), supervisor: [Prof. Yun Zhang](https://sece.sysu.edu.cn/szll/js/1406776.htm).
 * 2010.09 – 2013.06, Master of Engineering, Faculty of Information Science and Engineering, [Ningbo University](https://www.nbu.edu.cn/), supervisor: Prof. Gangyi Jiang.
 * 2006.09 – 2010.06, Bachelor of Science, College of Science, [Tianjin University of Technology](https://www.tjut.edu.cn/).
 
@@ -22,8 +22,8 @@ Work Experience
 ======
 * 2022.12 - Present, Associate Professor. [SIAT, CAS](https://www.siat.ac.cn/).
 * 2021.08 - 2022.11, Assistant Professor. [SIAT, CAS](https://www.siat.ac.cn/).
-* 2018.11 - 2021.07, Postdoctoral Fellow. [SIAT, CAS](https://www.siat.ac.cn/), supervisor: Prof. Yun Zhang.
-* 2013.07 – 2016.01, Research Assistant. [SIAT, CAS](https://www.siat.ac.cn/), supervisor: Prof. Yun Zhang.
+* 2018.11 - 2021.07, Postdoctoral Fellow. [SIAT, CAS](https://www.siat.ac.cn/), supervisor: [Prof. Yun Zhang](https://sece.sysu.edu.cn/szll/js/1406776.htm).
+* 2013.07 – 2016.01, Research Assistant. [SIAT, CAS](https://www.siat.ac.cn/), supervisor: [Prof. Yun Zhang](https://sece.sysu.edu.cn/szll/js/1406776.htm).
 
 Research Interests
 ======
