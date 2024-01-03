@@ -22,8 +22,8 @@ Work Experience
 ======
 * 2022.12 - Present, Associate Professor. [SIAT, CAS](https://www.siat.ac.cn/).
 * 2021.08 - 2022.11, Assistant Professor. [SIAT, CAS](https://www.siat.ac.cn/).
-* 2018.11 - 2021.07, Postdoctoral Fellow. [SIAT, CAS](https://www.siat.ac.cn/), supervisor: Prof. Yua Zhang.
-* 2013.07 – 2016.01, Research Assistant. [SIAT, CAS](https://www.siat.ac.cn/), supervisor: Prof. Yua Zhang.
+* 2018.11 - 2021.07, Postdoctoral Fellow. [SIAT, CAS](https://www.siat.ac.cn/), supervisor: Prof. Yun Zhang.
+* 2013.07 – 2016.01, Research Assistant. [SIAT, CAS](https://www.siat.ac.cn/), supervisor: Prof. Yun Zhang.
 
 Research Interests
 ======
