@@ -35,5 +35,5 @@ Research Interests
 
 Contact
 ======
-* Address:1068 Xueyuan Avenue, Shenzhen University Town, Shenzhen, P.R.China 
-* E-mail: lwzhu2-c@my.cityu.edu.hk , lw.zhu@siat.ac.cn 
+* Address:1068 Xueyuan Avenue, Shenzhen University Town, Shenzhen, China 
+* E-mail: lwzhu2-c@my.cityu.edu.hk, lw.zhu@siat.ac.cn
