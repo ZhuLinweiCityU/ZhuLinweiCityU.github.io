@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Linwei ZHU (朱林卫)"
-  avatar           : "profile.png"
+  avatar           : "zhulinwei-photox.png"
   bio              : "Assoicate Professor with SIAT, CAS"
   location         : "Shenzhen, China"
   employer         :
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://sites.google.com/view/lwzhu2/home"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :  "http://hpcc.siat.ac.cn/homepage/linweiz.html"
+  uri              :  "https://zhulinweicityu.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
