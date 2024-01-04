@@ -2,11 +2,11 @@
 title: "Fuzzy SVM Based Coding Unit Decision in HEVC"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '**Linwei Zhu**, Yun Zhang, Sam Kwong, Xu Wang, and Tiesong Zhao, “Fuzzy SVM Based Coding Unit Decision in HEVC”, IEEE Transactions on Broadcasting (T-BC), vol. 64, no. 3, pp. 681-694, Sep. 2018. (SCI, IF=5.194, 中科院一区)'
+excerpt: '**Linwei Zhu**, Yun Zhang, Sam Kwong*, Xu Wang, and Tiesong Zhao, “Fuzzy SVM Based Coding Unit Decision in HEVC”, IEEE Transactions on Broadcasting (T-BC), vol. 64, no. 3, pp. 681-694, Sep. 2018. (SCI, IF=5.194, 中科院一区)'
 date: 2018-09-01
 venue: 'IEEE Transactions on Broadcasting (T-BC)'
 ---
-**Linwei Zhu**, Yun Zhang, Sam Kwong, Xu Wang, and Tiesong Zhao, “Fuzzy SVM Based Coding Unit Decision in HEVC”, IEEE Transactions on Broadcasting (T-BC), vol. 64, no. 3, pp. 681-694, Sep. 2018. (SCI, IF=5.194, 中科院一区)
+**Linwei Zhu**, Yun Zhang, Sam Kwong*, Xu Wang, and Tiesong Zhao, “Fuzzy SVM Based Coding Unit Decision in HEVC”, IEEE Transactions on Broadcasting (T-BC), vol. 64, no. 3, pp. 681-694, Sep. 2018. (SCI, IF=5.194, 中科院一区)
 
 
 
