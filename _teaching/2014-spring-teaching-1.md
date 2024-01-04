@@ -1,7 +1,7 @@
 ---
 title: "Natural Science Foundation of China"
 collection: teaching
-type: "NSFC"
+type: "Adversarial Deep Learning Based Versatile Video Coding"
 venue: "61901459, 240,000CNY, 2020.01-2022.12"
 date: 2019-01-01
 location: "City, Country"
