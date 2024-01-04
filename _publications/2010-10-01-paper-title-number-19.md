@@ -1,1 +1,9 @@
-
+---
+title: "Multi-Class Ranking Based Most Probable Prediction Unit Selection for HEVC Encoding"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: '**Linwei Zhu**, Sam Kwong, Yun Zhang, Xu Wang, and Shiqi Wang, “Multi-Class Ranking Based Most Probable Prediction Unit Selection for HEVC Encoding”, IEEE Visual Communications and Image Processing (VCIP), St Petersburg, Florida, U.S.A, Dec. 10-13, 2017. (Oral)'
+date: 2017-12-01
+venue: 'IEEE Visual Communications and Image Processing (VCIP)'
+---
+**Linwei Zhu**, Sam Kwong, Yun Zhang, Xu Wang, and Shiqi Wang, “Multi-Class Ranking Based Most Probable Prediction Unit Selection for HEVC Encoding”, IEEE Visual Communications and Image Processing (VCIP), St Petersburg, Florida, U.S.A, Dec. 10-13, 2017. (Oral)
