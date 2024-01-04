@@ -1,12 +1,12 @@
 ---
-title: "View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems"
+title: "Machine Learning Based Fast H.264/AVC to HEVC Transcoding Exploiting Block Partition Similarity"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '**Linwei Zhu**, Yun Zhang, Mei Yu, Gangyi Jiang, and Sam Kwong, “View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems”, Signal Processing: Image Communication (SP-IC), vol. 28, no. 10, pp. 1342-1357, Nov. 2013. (SCI, IF=3.453, 中科院二区/CCF C类)'
-date: 2013-10-01
-venue: 'Signal Processing Image Communication (SP-IC)'
+excerpt: '**Linwei Zhu**, Yun Zhang, Na Li, Gangyi Jiang, and Sam Kwong, “Machine Learning Based Fast H.264/AVC to HEVC Transcoding Exploiting Block Partition Similarity”, Journal of Visual Communication and Image Representation (JVCIR), vol. 38, pp. 824-837, Jul. 2016. (SCI, IF=2.887, 中科院三区/CCF C类)'
+date: 2016-07-01
+venue: 'Journal of Visual Communication and Image Representation (JVCIR)'
 ---
-**Linwei Zhu**, Yun Zhang, Mei Yu, Gangyi Jiang, and Sam Kwong, “View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems”, Signal Processing: Image Communication (SP-IC), vol. 28, no. 10, pp. 1342-1357, Nov. 2013. (SCI, IF=3.453, 中科院二区/CCF C类)
+**Linwei Zhu**, Yun Zhang, Na Li, Gangyi Jiang, and Sam Kwong, “Machine Learning Based Fast H.264/AVC to HEVC Transcoding Exploiting Block Partition Similarity”, Journal of Visual Communication and Image Representation (JVCIR), vol. 38, pp. 824-837, Jul. 2016. (SCI, IF=2.887, 中科院三区/CCF C类)
 
 
 
