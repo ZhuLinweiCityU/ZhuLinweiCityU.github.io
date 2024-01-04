@@ -1,4 +1,3 @@
-
 ---
 title: "View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems"
 collection: publications
