@@ -1,12 +1,12 @@
 ---
-title: "View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems"
+title: "Deep Learning Based Intra Mode Derivation for Versatile Video Coding"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '**Linwei Zhu**, Yun Zhang, Mei Yu, Gangyi Jiang, and Sam Kwong, “View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems”, Signal Processing: Image Communication (SP-IC), vol. 28, no. 10, pp. 1342-1357, Nov. 2013. (SCI, IF=3.453, 中科院二区/CCF C类)'
-date: 2013-10-01
-venue: 'Signal Processing Image Communication (SP-IC)'
+excerpt: '**Linwei Zhu**, Yun Zhang, Na Li, Gangyi Jiang, and Sam Kwong, “Deep Learning Based Intra Mode Derivation for Versatile Video Coding”, ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM), vol. 19, no. 2s, article 96, pp. 1-20, 2023. (SCI, IF=4.094, 中科院二区/CCF B类)'
+date: 2023-01-01
+venue: 'ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)'
 ---
-**Linwei Zhu**, Yun Zhang, Mei Yu, Gangyi Jiang, and Sam Kwong, “View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems”, Signal Processing: Image Communication (SP-IC), vol. 28, no. 10, pp. 1342-1357, Nov. 2013. (SCI, IF=3.453, 中科院二区/CCF C类)
+**Linwei Zhu**, Yun Zhang, Na Li, Gangyi Jiang, and Sam Kwong, “Deep Learning Based Intra Mode Derivation for Versatile Video Coding”, ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM), vol. 19, no. 2s, article 96, pp. 1-20, 2023. (SCI, IF=4.094, 中科院二区/CCF B类)
 
 
 
