@@ -11,9 +11,6 @@ main:
     
   - title: "Photo Gallery"
     url: /portfolio/
-        
-  - title: "News"
-    url: /year-archive/
     
   - title: "Awards"
     url: /cv/
