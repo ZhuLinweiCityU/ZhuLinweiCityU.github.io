@@ -1,12 +1,12 @@
 ---
-title: "View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems"
+title: "Deep Learning Based Chroma Prediction for Intra Versatile Video Coding"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '**Linwei Zhu**, Yun Zhang, Mei Yu, Gangyi Jiang, and Sam Kwong, “View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems”, Signal Processing: Image Communication (SP-IC), vol. 28, no. 10, pp. 1342-1357, Nov. 2013. (SCI, IF=3.453, 中科院二区/CCF C类)'
-date: 2013-10-01
-venue: 'Signal Processing Image Communication (SP-IC)'
+excerpt: '**Linwei Zhu**, Yun Zhang, Shiqi Wang, Sam Kwong, Xin Jin, and Yu Qiao, “Deep Learning Based Chroma Prediction for Intra Versatile Video Coding”, IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 31, no. 8, pp. 3168-3181, Aug. 2021. (SCI, IF=5.859, 中科院一区/CCF B类)'
+date: 2021-08-01
+venue: 'IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)'
 ---
-**Linwei Zhu**, Yun Zhang, Mei Yu, Gangyi Jiang, and Sam Kwong, “View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems”, Signal Processing: Image Communication (SP-IC), vol. 28, no. 10, pp. 1342-1357, Nov. 2013. (SCI, IF=3.453, 中科院二区/CCF C类)
+**Linwei Zhu**, Yun Zhang, Shiqi Wang, Sam Kwong, Xin Jin, and Yu Qiao, “Deep Learning Based Chroma Prediction for Intra Versatile Video Coding”, IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 31, no. 8, pp. 3168-3181, Aug. 2021. (SCI, IF=5.859, 中科院一区/CCF B类)
 
 
 
