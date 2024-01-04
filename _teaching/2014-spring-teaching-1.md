@@ -1,8 +1,8 @@
 ---
-title: "NSFC"
+title: "Natural Science Foundation of China"
 collection: teaching
-type: "Undergraduate course"
+type: "NSFC"
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2019-01-01
 location: "City, Country"
 ---
