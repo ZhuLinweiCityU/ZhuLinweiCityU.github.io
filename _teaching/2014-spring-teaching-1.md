@@ -2,7 +2,7 @@
 title: "Natural Science Foundation of China"
 collection: teaching
 type: "NSFC"
-venue: "61901459"
+venue: "61901459, 240,000CNY, 2020.01-2022.12"
 date: 2019-01-01
 location: "City, Country"
 ---
