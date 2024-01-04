@@ -2,9 +2,9 @@
 title: "Sparse Representation based Intra Prediction for Lossless/Near Lossless Video Coding"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '**Linwei Zhu**, Yun Zhang, Na Li, Jinyong Pi, and Xinju Wu, “Sparse Representation based Intra Prediction for Lossless/Near Lossless Video Coding”, IEEE International Conference on Visual Communications and Image Processing (VCIP), Macau, China, Dec. 1-4, 2020. (Oral)'
+excerpt: '**Linwei Zhu**, Yun Zhang*, Na Li, Jinyong Pi, and Xinju Wu, “Sparse Representation based Intra Prediction for Lossless/Near Lossless Video Coding”, IEEE International Conference on Visual Communications and Image Processing (VCIP), Macau, China, Dec. 1-4, 2020. (Oral)'
 date: 2020-12-01
 venue: 'IEEE International Conference on Visual Communications and Image Processing (VCIP)'
 ---
-**Linwei Zhu**, Yun Zhang, Na Li, Jinyong Pi, and Xinju Wu, “Sparse Representation based Intra Prediction for Lossless/Near Lossless Video Coding”, IEEE International Conference on Visual Communications and Image Processing (VCIP), Macau, China, Dec. 1-4, 2020. (Oral)
+**Linwei Zhu**, Yun Zhang*, Na Li, Jinyong Pi, and Xinju Wu, “Sparse Representation based Intra Prediction for Lossless/Near Lossless Video Coding”, IEEE International Conference on Visual Communications and Image Processing (VCIP), Macau, China, Dec. 1-4, 2020. (Oral)
 
