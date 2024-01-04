@@ -1,1 +1,10 @@
+---
+title: "A Survey on Perceptually Optimized Video Coding"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'Yun Zhang, **Linwei Zhu**, Gangyi Jiang, Sam Kwong, and C.-C. Jay Kuo, “A Survey on Perceptually Optimized Video Coding”, ACM Computing Surveys, vol. 55, no. 12, article no. 256, pp. 1-37, 2023. (SCI, IF=14.324, 中科院一区)'
+date: 2023-02-01
+venue: 'ACM Computing Surveys'
+---
+Yun Zhang, **Linwei Zhu**, Gangyi Jiang, Sam Kwong, and C.-C. Jay Kuo, “A Survey on Perceptually Optimized Video Coding”, ACM Computing Surveys, vol. 55, no. 12, article no. 256, pp. 1-37, 2023. (SCI, IF=14.324, 中科院一区)
 
