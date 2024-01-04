@@ -1,12 +1,12 @@
 ---
-title: "View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems"
+title: "View Synthesis Distortion Elimination Filter for Depth Coding in 3D Video Broadcasting"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '**Linwei Zhu**, Yun Zhang, Mei Yu, Gangyi Jiang, and Sam Kwong, “View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems”, Signal Processing: Image Communication (SP-IC), vol. 28, no. 10, pp. 1342-1357, Nov. 2013. (SCI, IF=3.453, 中科院二区/CCF C类)'
-date: 2013-10-01
-venue: 'Signal Processing Image Communication (SP-IC)'
+excerpt: '**Linwei Zhu**, Yun Zhang, Xu Wang, and Sam Kwong, “View Synthesis Distortion Elimination Filter for Depth Coding in 3D Video Broadcasting”, Multimedia Tools and Applications (MTA), vol. 74, no. 15, pp. 5935-5954, Aug. 2015. (SCI, IF=2.577, 中科院四区/CCF C类)'
+date: 2015-08-01
+venue: 'Multimedia Tools and Applications (MTA)'
 ---
-**Linwei Zhu**, Yun Zhang, Mei Yu, Gangyi Jiang, and Sam Kwong, “View-Spatial-Temporal Post-Refinement for View Synthesis in 3D Video Systems”, Signal Processing: Image Communication (SP-IC), vol. 28, no. 10, pp. 1342-1357, Nov. 2013. (SCI, IF=3.453, 中科院二区/CCF C类)
+**Linwei Zhu**, Yun Zhang, Xu Wang, and Sam Kwong, “View Synthesis Distortion Elimination Filter for Depth Coding in 3D Video Broadcasting”, Multimedia Tools and Applications (MTA), vol. 74, no. 15, pp. 5935-5954, Aug. 2015. (SCI, IF=2.577, 中科院四区/CCF C类)
 
 
 
