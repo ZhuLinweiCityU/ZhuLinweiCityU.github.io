@@ -9,4 +9,4 @@ venue: 'IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)'
 **Linwei Zhu**, Yun Zhang#, Shiqi Wang, Sam Kwong, Xin Jin, and Yu Qiao, “Deep Learning Based Chroma Prediction for Intra Versatile Video Coding”, IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 31, no. 8, pp. 3168-3181, Aug. 2021. (SCI, IF=5.859, 中科院一区/CCF B类) [paper](https://ieeexplore.ieee.org/document/9247080)
 
 
-<br/><img src='/images/chroma.jpg'>
+<br/><img src='/images/color.jpg'>

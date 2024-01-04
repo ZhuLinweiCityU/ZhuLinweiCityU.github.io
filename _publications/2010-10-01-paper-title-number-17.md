@@ -8,3 +8,4 @@ venue: 'IEEE International Conference on Visual Communications and Image Process
 ---
 **Linwei Zhu**, Yun Zhang#, Na Li, Jinyong Pi, and Xinju Wu, “Sparse Representation based Intra Prediction for Lossless/Near Lossless Video Coding”, IEEE International Conference on Visual Communications and Image Processing (VCIP), Macau, China, Dec. 1-4, 2020. (Oral) [paper](https://ieeexplore.ieee.org/document/9301752)
 
+<br/><img src='/images/sparse.jpg'>
