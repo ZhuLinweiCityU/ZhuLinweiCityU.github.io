@@ -2,7 +2,7 @@
 title: "Natural Science Foundation of China"
 collection: teaching
 type: "NSFC"
-venue: "University 1, Department"
+venue: "61901459"
 date: 2019-01-01
 location: "City, Country"
 ---
