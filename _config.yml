@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Linwei ZHU (朱林卫)"
   avatar           : "zhulinwei-photox.png"
-  bio              : "Assoicate Professor with SIAT, CAS"
+  bio              : "Assoicate Professor"
   location         : "Shenzhen, China"
-  employer         :
+  employer         : "SIAT, CAS"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=haF6aycAAAAJ&hl=en"
   email            : "lw.zhu@siat.ac.cn"
