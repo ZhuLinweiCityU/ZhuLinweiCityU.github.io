@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Linwei ZHU"
 description              : &description "personal description"
 url                      : https://ZhuLinweiCityU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Linwei ZHU (朱林卫)"
   avatar           : "zhulinwei-photox.png"
-  bio              : "Assoicate Professor with SIAT, CAS 副研究员，中国科学院深圳先进技术研究院"
+  bio              : "Assoicate Professor"
   location         : "Shenzhen, China"
-  employer         :
+  employer         : #"SIAT, CAS"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=haF6aycAAAAJ&hl=en"
   email            : "lw.zhu@siat.ac.cn"
@@ -202,6 +202,7 @@ defaults:
       comments: true
       share: true
       related: true
+      last_updated: true
   # _pages
   - scope:
       path: ""
@@ -209,6 +210,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      last_updated: true
   # _teaching
   - scope:
       path: ""
@@ -218,6 +220,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      last_updated: true
   # _publications
   - scope:
       path: ""
@@ -227,6 +230,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      last_updated: true
   # _portfolio
   - scope:
       path: ""
@@ -236,6 +240,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      last_updated: true
   # _talks
   - scope:
       path: ""
@@ -244,6 +249,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      last_updated: true
 
 # Sass/SCSS
 sass:
