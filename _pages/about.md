@@ -33,4 +33,3 @@ Research Interests
 * Video Transcoding, Image Processing
 * Machine Learning, Deep Learning
 
-![Visitor Count](https://profile-counter.glitch.me/ZhuLinweiCityU.github.io/count.svg)
