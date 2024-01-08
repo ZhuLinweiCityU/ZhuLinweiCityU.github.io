@@ -1,5 +1,5 @@
 ---
-title: "Prof. Ho (IEEE Fellow) visits SIAT"
-excerpt: "2019.09 Prof. Yo-Sung Ho (IEEE Fellow) visits Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences <br/><img src='/images/ho.JPG'>"
+title: "Graduation from City University of Hong Kong"
+excerpt: "2019.04 Graduation from City University of Hong Kong with Dr. Yuheng Jia and Dr. Wenhui Wu <br/><img src='/images/graduation.jpg'>"
 collection: portfolio
 ---
