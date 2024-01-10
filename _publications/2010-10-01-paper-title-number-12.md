@@ -1,5 +1,5 @@
 ---
-title: "Highly Efficient Mulitview Depth Coding Based on Histogram Projection and Allowable Depth Distortion"
+title: "[IEEE T-IP] Highly Efficient Mulitview Depth Coding Based on Histogram Projection and Allowable Depth Distortion"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-12
 excerpt: 'Yun Zhang#, **Linwei Zhu**, Raouf Hamzaoui, Sam Kwong, and Yo-Sung Ho, “Highly Efficient Mulitview Depth Coding Based on Histogram Projection and Allowable Depth Distortion”, IEEE Transactions on Image Processing (T-IP), vol. 30, pp. 402-417, 2021. (SCI, IF=11.041, 中科院一区/CCF A类) [paper](https://ieeexplore.ieee.org/document/9259241)'
