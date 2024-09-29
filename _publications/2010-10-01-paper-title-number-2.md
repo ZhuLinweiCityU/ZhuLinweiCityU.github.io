@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "[MTA 2015] View Synthesis Distortion Elimination Filter for Depth Coding in 3D Video Broadcasting"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: '**Linwei Zhu**, Yun Zhang#, Xu Wang, and Sam Kwong, “View Synthesis Distortion Elimination Filter for Depth Coding in 3D Video Broadcasting”, Multimedia Tools and Applications (MTA), vol. 74, no. 15, pp. 5935-5954, Aug. 2015. (SCI, IF=2.577, 中科院四区/CCF C类) [paper](https://link.springer.com/article/10.1007/s11042-014-1898-1)'
+date: 2015-08-01
+venue: 'Multimedia Tools and Applications (MTA)'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+**Linwei Zhu**, Yun Zhang#, Xu Wang, and Sam Kwong, “View Synthesis Distortion Elimination Filter for Depth Coding in 3D Video Broadcasting”, Multimedia Tools and Applications (MTA), vol. 74, no. 15, pp. 5935-5954, Aug. 2015. (SCI, IF=2.577, 中科院四区/CCF C类) [paper](https://link.springer.com/article/10.1007/s11042-014-1898-1)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+
