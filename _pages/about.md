@@ -15,7 +15,7 @@ Education
 * 2016.01 – 2019.02, Doctor of Philosophy, [City University of Hong Kong](https://www.cityu.edu.hk/), supervisor: [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow).
 * 2011.09 – 2013.06, Visiting Student, [SIAT, CAS](https://www.siat.ac.cn/), supervisor: [Prof. Yun Zhang](https://sece.sysu.edu.cn/szll/js/1406776.htm).
 * 2010.09 – 2013.06, Master of Engineering, [Ningbo University](https://www.nbu.edu.cn/), supervisor: Prof. Gangyi Jiang and Prof. Mei Yu.
-* 2006.09 – 2010.06, Bachelor of Science, [Tianjin University of Technology](https://www.tjut.edu.cn/), supervisor: Prof. Xiaoman Cheng.
+* 2006.09 – 2010.06, Bachelor of Science, [Tianjin University of Technology](https://www.tjut.edu.cn/).
 
 
 Work Experience
