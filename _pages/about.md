@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an Associate Professor with [Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/). I received the Ph.D. degree from [City University of Hong Kong](https://www.cityu.edu.hk/) under the supervision of [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow), the B.S. degree from Tianjin University of Technology and the M.S. degree from Ningbo University under the supervision of Prof. Gangyi Jiang. From Sep. 2011 to Jun. 2013, I was a visiting student in SIAT, CAS under the supervision of [Prof. Yun Zhang](https://sece.sysu.edu.cn/szll/js/1406776.htm).
+I am currently an Associate Professor with [Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/). I received the Ph.D. degree from [City University of Hong Kong](https://www.cityu.edu.hk/) under the supervision of [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow), the B.S. degree from Tianjin University of Technology and the M.S. degree from Ningbo University under the supervision of Prof. Gangyi Jiang. From Sep. 2011 to Jun. 2013, I was a visiting student in SIAT, CAS under the supervision of [Prof. Yun Zhang](https://sece.sysu.edu.cn/szll/js/1406776.htm).
 
 
 Education
 ======
-* 2016.01 – 2019.02, Doctor of Philosophy, Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/), supervisor: [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow).
+* 2016.01 – 2019.02, Doctor of Philosophy, [City University of Hong Kong](https://www.cityu.edu.hk/), supervisor: [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow).
 * 2011.09 – 2013.06, Visiting Student, [SIAT, CAS](https://www.siat.ac.cn/), supervisor: [Prof. Yun Zhang](https://sece.sysu.edu.cn/szll/js/1406776.htm).
-* 2010.09 – 2013.06, Master of Engineering, Faculty of Information Science and Engineering, [Ningbo University](https://www.nbu.edu.cn/), supervisor: Prof. Gangyi Jiang and Prof. Mei Yu.
-* 2006.09 – 2010.06, Bachelor of Science, College of Science, [Tianjin University of Technology](https://www.tjut.edu.cn/), supervisor: Prof. Xiaoman Cheng.
+* 2010.09 – 2013.06, Master of Engineering, [Ningbo University](https://www.nbu.edu.cn/), supervisor: Prof. Gangyi Jiang and Prof. Mei Yu.
+* 2006.09 – 2010.06, Bachelor of Science, [Tianjin University of Technology](https://www.tjut.edu.cn/), supervisor: Prof. Xiaoman Cheng.
 
 
 Work Experience
