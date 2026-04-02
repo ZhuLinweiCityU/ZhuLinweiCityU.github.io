@@ -49,7 +49,7 @@ redirect_from:
 - 深圳市海外高层次 C 类人才
 - 香港城市大学 Research Tuition Scholarship，2016.08、2017.08、2018.08
 - 香港城市大学 Outstanding Academic Performance Award，2017.08、2018.08
--香港城市大学 Studentship，2016.01–2018.12 
+- 香港城市大学 Studentship，2016.01–2018.12 
 - 中国科学院深圳先进技术研究院院长奖学金
 - 研究生国家奖学金                         
 - 天津市人民政府奖学金                      
