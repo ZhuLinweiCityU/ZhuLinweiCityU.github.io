@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-## 👨‍🔬 关于我
 朱林卫，中国科学院深圳先进技术研究院副研究员。2019 年获香港城市大学计算机科学与技术博士学位，长期从事**多媒体信号处理、图像/视频编解码**相关研究，研究方向涵盖机器视觉、水下图像/视频增强与压缩、3D 视频编码与处理、虚拟视点渲染、静态/动态点云增强与压缩等领域。
 
 先后主持国家自然科学基金、广东省自然科学基金、深圳市自然科学基金等多项科研项目，以第一/通讯作者在 IEEE T-IP、IEEE T-CSVT、IEEE T-MM 等国际顶级/知名期刊发表多篇 SCI 论文，获授权中国、美国发明专利十余项。
 
----
 
 ## 🎓 教育经历
 - 2016.01–2019.02， 香港城市大学，计算机科学与技术，博士，导师：邝得互教授（IEEE Fellow）
@@ -21,7 +19,6 @@ redirect_from:
 - 2006.09–2010.06，天津理工大学，应用物理学，学士
 - 2011.09–2013.06，中国科学院深圳先进技术研究院，客座学生
 
----
 
 ## 💼 工作经历
 - 2023.01–至今，中国科学院深圳先进技术研究院，副研究员
@@ -29,7 +26,6 @@ redirect_from:
 - 2018.11–2021.06，中国科学院深圳先进技术研究院，博士后，合作导师：张云研究员
 - 2013.07–2015.12，中国科学院深圳先进技术研究院，研究助理
 
----
 
 ## 🚀 研究方向
 - 多媒体信号处理，图像/视频编解码
@@ -37,7 +33,6 @@ redirect_from:
 - 3D 视频编码与处理，虚拟视点渲染
 - 静态/动态点云增强与压缩
 
----
 
 ## 🔬 主持的科研项目
 - 广东省自然科学基金面上项目
@@ -49,18 +44,16 @@ redirect_from:
 - 国家自然科学基金青年科学基金项目
 - 中国博士后科学基金面上项目
 
----
 
 ## 🏆 奖项及荣誉
--深圳市海外高层次 C 类人才
--香港城市大学 Research Tuition Scholarship，2016.08、2017.08、2018.08
--香港城市大学 Outstanding Academic Performance Award，2017.08、2018.08
+- 深圳市海外高层次 C 类人才
+- 香港城市大学 Research Tuition Scholarship，2016.08、2017.08、2018.08
+- 香港城市大学 Outstanding Academic Performance Award，2017.08、2018.08
 -香港城市大学 Studentship，2016.01–2018.12 
--中国科学院深圳先进技术研究院院长奖学金
--研究生国家奖学金                         
--天津市人民政府奖学金                      
--全国大学生数学建模竞赛天津赛区一等奖    
----
+- 中国科学院深圳先进技术研究院院长奖学金
+- 研究生国家奖学金                         
+- 天津市人民政府奖学金                      
+- 全国大学生数学建模竞赛天津赛区一等奖    
 
 ## 📝 代表性成果
 1. **Linwei Zhu**, Ruxu Liang, Yun Zhang#, Hui Yuan, and Sam Kwong, “Temporal Consistency Aware Dynamic Point Clouds Color Attribute Enhancement”, IEEE Transactions on Multimedia (IEEE T-MM), accepted, to be published, doi: 10.1109/TMM.2026.3651063, 2026. (SCI, IF=9.7, 中科院一区, 唯一一作)
@@ -72,5 +65,5 @@ redirect_from:
 7. **Linwei Zhu**, Yun Zhang#, Shiqi Wang, Sam Kwong, Xin Jin, and Yu Qiao, “Deep Learning Based Chroma Prediction for Intra Versatile Video Coding”, IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT), vol. 31, no. 8, pp. 3168-3181, Aug. 2021. (SCI, IF=11.1, 中科院一区, 唯一一作)
 8. **Linwei Zhu**, Sam Kwong#, Yun Zhang, Shiqi Wang, and Xu Wang, “Generative Adversarial Network Based Intra Prediction for Video Coding”, IEEE Transactions on Multimedia (T-MM), vol. 22, no. 1, pp. 45-58, Jan. 2020. (SCI, IF=9.7, 中科院一区, 唯一一作)
 9. **Linwei Zhu**, Yun Zhang, Shiqi Wang, Hui Yuan, Sam Kwong#, and Horace H. S. Ip, “Convolutional Neural Network Based Synthesized View Quality Enhancement for 3D Video Coding”, IEEE Transactions on Image Processing (IEEE T-IP), vol. 27, no. 11, pp. 5365-5377, Nov. 2018. (SCI, IF=13.7, 中科院一区, 唯一一作)
-10. **Linwei Zhu**, Yun Zhang#, Xu Wang, and Tiesong Zhao, “Fuzzy SVM Based Coding Unit Decision in HEVC”, IEEE Transactions on Broadcasting (IEEE T-BC), vol. 64, no. 3, pp. 681-694, Sep. 2018. (SCI, IF=4.8, 中科院二区, 唯一一作)
-11. **Linwei Zhu**, Yun Zhang#, Zhaoqing Pan, Ran Wang, Sam Kwong, and Zongju Peng, “Binary and Multi-Class Learning Based Low Complexity Optimization for HEVC Encoding”, IEEE Transactions on Broadcasting (IEEE T-BC), vol. 63, no. 3, pp. 547-561, Sep. 2017. (SCI, IF=4.8, 中科院二区, 唯一一作)
+10. **Linwei Zhu**, Yun Zhang#, Xu Wang, and Tiesong Zhao, “Fuzzy SVM Based Coding Unit Decision in HEVC”, IEEE Transactions on Broadcasting (IEEE T-BC), vol. 64, no. 3, pp. 681-694, Sep. 2018. (SCI, IF=4.8, 中科院一区, 唯一一作)
+11. **Linwei Zhu**, Yun Zhang#, Zhaoqing Pan, Ran Wang, Sam Kwong, and Zongju Peng, “Binary and Multi-Class Learning Based Low Complexity Optimization for HEVC Encoding”, IEEE Transactions on Broadcasting (IEEE T-BC), vol. 63, no. 3, pp. 547-561, Sep. 2017. (SCI, IF=4.8, 中科院一区, 唯一一作)
