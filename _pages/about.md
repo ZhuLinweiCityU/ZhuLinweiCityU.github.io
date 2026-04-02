@@ -31,8 +31,8 @@ Research Interests
 * Multi-view Video Coding
 * View Synthesis, Depth Image Based Rendering
 * High Efficiency Video Coding
-* Video Transcoding, Image Processing
-* Machine Learning, Deep Learning
+* Point Cloud Enhancment and Compression
+* Underwater Image/Video Enhancement and Compression
 
 Research Projects
 ======
