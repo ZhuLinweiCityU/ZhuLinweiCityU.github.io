@@ -34,7 +34,7 @@ Research Interests
 * Point Cloud Enhancement and Compression
 * Underwater Image/Video Enhancement and Compression
 
-Research Projects
+Research Grants
 ======
 * National Natural Science Foundation of China 
 * China Postdoctoral Science Foundation (Special Funding) 
