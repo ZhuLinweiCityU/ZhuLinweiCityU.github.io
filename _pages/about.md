@@ -57,10 +57,13 @@ redirect_from:
 - 全国大学生数学建模竞赛天津赛区一等奖    
 
 ## 👨‍🎓 学生培养
-4. 杨云翔，南方科学大学-深圳理工大学，硕士研究生（2025.09-至今）
-3. 朱俊豪，南方科技大学-深圳理工大学，硕士研究生（2023.09-至今），学术成果包括IEEE SPL和ACM TOMM（审稿中）
-2. 梁如旭，中国科学院大学，硕士研究生（2022.09-2025.06），学术成果包括IEEE T-MM和IEEE SPL
-1. 冯识宇，中国科学院大学，硕士研究生（2021.09-2024.06），学术成果包括IEEE T-BC和IEEE T-MM，进入香港城市大学攻读博士学位
+| 序号 | 学生姓名 | 培养单位 | 培养阶段 | 学术成果 |
+|------|----------|----------|----------|----------|
+| 4 | 杨云翔 | 南方科学大学-深圳理工大学 | 硕士（2025.09-至今） | - |
+| 3 | 朱俊豪 | 南方科技大学-深圳理工大学 | 硕士（2023.09-至今） | IEEE SPL、ACM TOMM（审稿中） |
+| 2 | 梁如旭 | 中国科学院大学 | 硕士（2022.09-2025.06） | IEEE T-MM、IEEE SPL |
+| 1 | 冯识宇 | 中国科学院大学 | 硕士（2021.09-2024.06） | IEEE T-BC、IEEE T-MM；赴香港城市大学攻读博士 |
+
 
 ## 📝 代表性成果
 17. **Linwei Zhu**, Ruxu Liang, Yun Zhang#, Hui Yuan, and Sam Kwong, “Temporal Consistency Aware Dynamic Point Clouds Color Attribute Enhancement”, **IEEE Transactions on Multimedia (IEEE T-MM)**, accepted, to be published, doi: 10.1109/TMM.2026.3651063, 2026. (SCI, IF=9.7, 中科院一区, 唯一一作)
