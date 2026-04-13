@@ -65,7 +65,7 @@ redirect_from:
 | 冯识宇 | 中国科学院大学 | 2021.09 | 硕士 | IEEE T-BC、IEEE T-MM | 进入香港城市大学攻读博士 |
 
 
-## 📝 10篇代表性成果
+## 📝 10篇代表性成果（#表示通讯作者）
 10. **Linwei Zhu**, Junhao Zhu, Xu Zhang, Huan Zhang, Ye Li, Runmin Cong, and Sam Kwong, “Enhanced Quality Aware Scalable Underwater Image Compression”, _ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)_, accepted, to be published, 2026. (SCI, IF=6.0, CCF B)
 9. **Linwei Zhu**, Ruxu Liang, Yun Zhang, Hui Yuan, and Sam Kwong, “Temporal Consistency Aware Dynamic Point Clouds Color Attribute Enhancement”, _IEEE Transactions on Multimedia (IEEE T-MM)_, accepted, to be published, doi: 11.1109/TMM.2026.3651063, 2026. (SCI, IF=9.7, 中科院一区)
 8. Shiyu Feng, **Linwei Zhu#**, Yun Zhang, Na Li, and Shiqi Wang, “C-CTX: Cubic-Checkerboard Context Entropy Model for Learned Image Compression”, _IEEE Transactions on Multimedia (IEEE T-MM)_, vol. 28, pp. 1756-1766, 2026. (SCI, IF=9.7, 中科院一区)
