@@ -66,8 +66,8 @@ redirect_from:
 
 
 ## 📝 代表性成果
-13. **Linwei Zhu**, Junhao Zhu, Xu Zhang, Huan Zhang#, Ye Li, Runmin Cong, and Sam Kwong, “Enhanced Quality Aware Scalable Underwater Image Compression”, _ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)_, accepted, to be published, 2026. (SCI, IF=6.0, CCF B, 唯一一作)
-12. **Linwei Zhu**, Ruxu Liang, Yun Zhang#, Hui Yuan, and Sam Kwong, “Temporal Consistency Aware Dynamic Point Clouds Color Attribute Enhancement”, _IEEE Transactions on Multimedia (IEEE T-MM)_, accepted, to be published, doi: 11.1109/TMM.2026.3651063, 2026. (SCI, IF=9.7, 中科院一区, 唯一一作)
+12. **Linwei Zhu**, Junhao Zhu, Xu Zhang, Huan Zhang#, Ye Li, Runmin Cong, and Sam Kwong, “Enhanced Quality Aware Scalable Underwater Image Compression”, _ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)_, accepted, to be published, 2026. (SCI, IF=6.0, CCF B, 唯一一作)
+11. **Linwei Zhu**, Ruxu Liang, Yun Zhang#, Hui Yuan, and Sam Kwong, “Temporal Consistency Aware Dynamic Point Clouds Color Attribute Enhancement”, _IEEE Transactions on Multimedia (IEEE T-MM)_, accepted, to be published, doi: 11.1109/TMM.2026.3651063, 2026. (SCI, IF=9.7, 中科院一区, 唯一一作)
 10. Shiyu Feng, **Linwei Zhu#**, Yun Zhang, Na Li, and Shiqi Wang, “C-CTX: Cubic-Checkerboard Context Entropy Model for Learned Image Compression”, _IEEE Transactions on Multimedia (IEEE T-MM)_, vol. 28, pp. 1756-1766, 2026. (SCI, IF=9.7, 中科院一区, 唯一通讯)
 9. Huan Zhang, Xu Zhang, **Linwei Zhu#**, Yun Zhang, Jiangzhong Cao, and Wing Kuen Ling, “Enhancing 3D Video Watching Experiences: Tacking Compression and 3D Warping Distortions in Synthesized View with Perceptual Guidance”, _Expert Systems with Applications (ESWA)_, vol. 264, pp. 125853:1-12, 2025. (SCI, IF=7.5, 中科院一区, 唯一通讯)
 8. **Linwei Zhu**, Yun Zhang#, Na Li#, Wenhui Wu, Shiqi Wang, and Sam Kwong, “Neural Network Based Multi-Level In-Loop Filtering for Versatile Video Coding”, _IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)_, vol. 34, no. 11, pp. 12092-12096, 2024. (SCI, IF=11.1, 中科院一区, 唯一一作)
