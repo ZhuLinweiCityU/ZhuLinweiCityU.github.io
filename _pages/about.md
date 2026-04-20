@@ -69,7 +69,7 @@ redirect_from:
 
 
 ## 📝 代表性成果（#表示通讯作者）
-12. **Linwei Zhu**, Junhao Zhu, Xu Zhang, Huan Zhang, Ye Li, Runmin Cong, and Sam Kwong, “Enhanced Quality Aware Scalable Underwater Image Compression”, _ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)_, accepted, to be published, 2026. (SCI, IF=6.0, CCF B)
+12. **Linwei Zhu**, Junhao Zhu, Xu Zhang, Huan Zhang, Ye Li, Runmin Cong, and Sam Kwong, [“Enhanced Quality Aware Scalable Underwater Image Compression”](https://dl.acm.org/doi/10.1145/3810949), _ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)_, accepted, to be published, 2026. (SCI, IF=6.0, CCF B)
 11. **Linwei Zhu**, Ruxu Liang, Yun Zhang, Hui Yuan, and Sam Kwong, “Temporal Consistency Aware Dynamic Point Clouds Color Attribute Enhancement”, _IEEE Transactions on Multimedia (IEEE T-MM)_, accepted, to be published, doi: 11.1109/TMM.2026.3651063, 2026. (SCI, IF=9.7, CCF A)
 10. Shiyu Feng, **Linwei Zhu#**, Yun Zhang, Na Li, and Shiqi Wang, “C-CTX: Cubic-Checkerboard Context Entropy Model for Learned Image Compression”, _IEEE Transactions on Multimedia (IEEE T-MM)_, vol. 28, pp. 1756-1766, 2026. (SCI, IF=9.7, CCF A)
 9. Huan Zhang, Xu Zhang, **Linwei Zhu#**, Yun Zhang, Jiangzhong Cao, and Wing Kuen Ling, “Enhancing 3D Video Watching Experiences: Tacking Compression and 3D Warping Distortions in Synthesized View with Perceptual Guidance”, _Expert Systems with Applications (ESWA)_, vol. 264, pp. 125853:1-12, 2025. (SCI, IF=7.5, 中科院一区)
