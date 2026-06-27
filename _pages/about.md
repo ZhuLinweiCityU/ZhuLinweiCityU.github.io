@@ -46,6 +46,7 @@ redirect_from:
 
 
 ## 🏆 奖项及荣誉
+- IEEE Senior Member，2026
 - 深圳市海外高层次 C 类人才，2019
 - 香港城市大学 Research Tuition Scholarship，2016.08、2017.08、2018.08
 - 香港城市大学 Outstanding Academic Performance Award，2017.08、2018.08
