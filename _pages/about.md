@@ -68,7 +68,7 @@ redirect_from:
 | 陈锦涛 | 宁波大学 | 2025.09 | 硕士 | — | 在读 |
 | 吴宇祥 | 宁波大学 | 2025.09 | 硕士 | IEEE T-MM（审稿中） | 在读 |
 | 凌焕明 | 宁波大学 | 2024.09 | 硕士 | IEEE T-IP（审稿中）| 在读 |
-| 朱俊豪 |南方科技大学-深圳理工大学 | 2023.09 | 硕士 | IEEE SPL、ACM TOMM | 已毕业 ，影石创新（Insta360）|
+| 朱俊豪 |南方科技大学-深圳理工大学 | 2023.09 | 硕士 | IEEE SPL、ACM TOMM | 已毕业 ，影石（Insta360）|
 | 梁如旭 | 中国科学院大学 | 2022.09 | 硕士 | IEEE T-MM、IEEE SPL | 已毕业，中国电信（广州） |
 | 冯识宇 | 中国科学院大学 | 2021.09 | 硕士 | IEEE T-BC、IEEE T-MM | 已毕业，香港城市大学攻读博士 |
 
@@ -77,7 +77,7 @@ redirect_from:
 10. **Linwei Zhu**, Junhao Zhu, Xu Zhang, Huan Zhang, Ye Li, Runmin Cong, and Sam Kwong, [“Enhanced Quality Aware Scalable Underwater Image Compression”](https://dl.acm.org/doi/10.1145/3810949), _ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)_, vol. 22, no. 6, article 174, pp. 1-19, 2026. (**SCI, IF=5.6, CCF B**) 
 9. **Linwei Zhu**, Ruxu Liang, Yun Zhang, Hui Yuan, and Sam Kwong, [“Temporal Consistency Aware Dynamic Point Clouds Color Attribute Enhancement”](https://ieeexplore.ieee.org/document/11340745), _IEEE Transactions on Multimedia (IEEE T-MM)_, vol. 28, pp. 2744-2757, 2026. (**SCI, IF=9.9, CCF A**) 
 8. Shiyu Feng, **Linwei Zhu#**, Yun Zhang, Na Li, and Shiqi Wang, [“C-CTX: Cubic-Checkerboard Context Entropy Model for Learned Image Compression”](https://ieeexplore.ieee.org/document/11303924), _IEEE Transactions on Multimedia (IEEE T-MM)_, vol. 28, pp. 1756-1766, 2026. (**SCI, IF=9.9, CCF A**) 
-7. Huan Zhang, Xu Zhang, **Linwei Zhu#**, Yun Zhang, Jiangzhong Cao, and Wing Kuen Ling, [“Enhancing 3D Video Watching Experiences: Tacking Compression and 3D Warping Distortions in Synthesized View with Perceptual Guidance”](https://www.sciencedirect.com/science/article/pii/S0957417424027209), _Expert Systems with Applications (ESWA)_, vol. 264, pp. 125853:1-12, 2025. (**SCI, IF=9.4, 中科院一区**) 
+7. Huan Zhang, Xu Zhang, **Linwei Zhu#**, Yun Zhang, Jiangzhong Cao, and Wing Kuen Ling, [“Enhancing 3D Video Watching Experiences: Tacking Compression and 3D Warping Distortions in Synthesized View with Perceptual Guidance”](https://www.sciencedirect.com/science/article/pii/S0957417424027209), _Expert Systems with Applications (ESWA)_, vol. 264, pp. 125853:1-12, 2025. (**SCI, IF=9.4**) 
 6. **Linwei Zhu**, Yun Zhang, Na Li, Wenhui Wu, Shiqi Wang, and Sam Kwong, [“Neural Network Based Multi-Level In-Loop Filtering for Versatile Video Coding”](https://ieeexplore.ieee.org/document/10577261), _IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)_, vol. 34, no. 11, pp. 12092-12096, 2024. (**SCI, IF=10.8, CCF B**) 
 5. Yun Zhang, Haoqin Lin, Jing Sun, **Linwei Zhu#**, and Sam Kwong, [“Learning to Predict Object Wise Just Recognizable Distortion for Image and Video Compression”](https://ieeexplore.ieee.org/document/10349945), _IEEE Transactions on Multimedia (IEEE T-MM)_, vol. 26, pp. 5925-5938, 2024. (**SCI, IF=9.9, CCF A**) 
 4. **Linwei Zhu**, Yun Zhang, Na Li, Gangyi Jiang, and Sam Kwong, [“Deep Learning Based Intra Mode Derivation for Versatile Video Coding”](https://dl.acm.org/doi/10.1145/3563699), _ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM)_, vol. 19, no. 2s, article 96, pp. 1-20, 2023. (**SCI, IF=5.6, CCF B**) 
