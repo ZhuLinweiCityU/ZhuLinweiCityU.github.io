@@ -92,7 +92,7 @@ redirect_from:
 ---
 
 # Linwei Zhu
-Associate Researcher, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences
+Associate Researcher, Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences
 
 My research focuses on multimedia signal processing and image/video coding. My interests include machine vision, underwater image/video enhancement and compression, 3D video coding and virtual view synthesis, static/dynamic point cloud enhancement and compression, perceptual visual quality assessment, and light-field coding and quality evaluation.
 
@@ -105,10 +105,10 @@ I have been the principal investigator of the Youth Program of the National Natu
 - Sep. 2006 – Jun. 2010, B.Eng., Tianjin University of Technology
 
 ## Work Experience
-- Dec. 2022 – Present, Associate Researcher, Shenzhen Institute of Advanced Technology, CAS
-- Jul. 2021 – Nov. 2022, Assistant Researcher, Shenzhen Institute of Advanced Technology, CAS
-- Nov. 2018 – Jun. 2021, Postdoctoral Fellow, Shenzhen Institute of Advanced Technology, CAS. Co-supervisor: Prof. Yun Zhang
-- Jul. 2013 – Dec. 2015, Research Assistant, Shenzhen Institute of Advanced Technology, CAS
+- Dec. 2022 – Present, Associate Researcher, Shenzhen Institutes of Advanced Technology, CAS
+- Jul. 2021 – Nov. 2022, Assistant Researcher, Shenzhen Institutes of Advanced Technology, CAS
+- Nov. 2018 – Jun. 2021, Postdoctoral Fellow, Shenzhen Institutes of Advanced Technology, CAS. Co-supervisor: Prof. Yun Zhang
+- Jul. 2013 – Dec. 2015, Research Assistant, Shenzhen Institutes of Advanced Technology, CAS
 
 ## Research Interests
 - Multimedia signal processing, image and video coding
