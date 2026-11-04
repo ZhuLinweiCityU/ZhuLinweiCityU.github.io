@@ -72,8 +72,8 @@ He has served as the principal investigator for the Youth Program of the Nationa
 | Yuxiang Wu | NBU | 2025 | Master | IEEE T-MM (Under review) | Ongoing |
 | Huanming Ling | NBU | 2024 | Master | IEEE T-IP (Under review) | Ongoing |
 | Junhao Zhu | SUSTech-SUAT | 2023 | Master | IEEE SPL, ACM TOMM | Graduated, Insta360 |
-| Ruxu Liang | UCAS | 2022 | Master | IEEE T-MM, IEEE SPL | Graduated, China Telecom (Guangzhou) |
-| Shiyu Feng | UCAS | 2021 | Master | IEEE T-BC, IEEE T-MM | Graduated, Ph.D. at City University of Hong Kong |
+| Ruxu Liang | UCAS | 2022 | Master | IEEE T-MM, IEEE SPL | Graduated, China Telecom |
+| Shiyu Feng | UCAS | 2021 | Master | IEEE T-BC, IEEE T-MM | Graduated, Ph.D. at CityU |
 
 
 ## 📝 10 Selected Publications (# corresponding author)
