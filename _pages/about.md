@@ -64,7 +64,7 @@ He has served as the principal investigator for the Youth Program of the Nationa
 
 ## 👨‍🎓 Student Supervision
 
-| Name | Affiliation | Enrollment | Degree | Main Outputs | Status / Next Affiliation |
+| Name | Affiliation | Enrollment | Degree | Outputs | Status / Next Affiliation |
 |------|----------|----------|------|--------------|---------------|
 | Chenyu Wei | SUSTech-SUAT | 2026 | Master | — | Ongoing |
 | Yunxiang Yang | SUSTech-SUAT | 2025 | Master | IEEE T-CSVT (Under review) | Ongoing |
