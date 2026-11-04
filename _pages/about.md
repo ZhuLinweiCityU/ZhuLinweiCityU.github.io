@@ -11,7 +11,7 @@ redirect_from:
 Linwei Zhu, Associate Professor, **Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)**.
 
 
-His research focuses on multimedia signal processing and image/video coding, covering machine vision, underwater image/video enhancement and compression, 3D video coding and processing, virtual view synthesis, static and dynamic point cloud enhancement and compression.
+His research focuses on multimedia signal processing and **image/video coding**, covering machine vision, underwater image/video enhancement and compression, 3D video coding and processing, virtual view synthesis, static and dynamic point cloud enhancement and compression.
 
 
 He has served as the principal investigator for the Youth Program of the National Natural Science Foundation of China, Special Grant and General Grant of China Postdoctoral Science Foundation, General Program of Guangdong Natural Science Foundation, General Program of Shenzhen Natural Science Foundation, etc. As first or corresponding author, he has published multiple SCI papers in top journals including IEEE T-IP, IEEE T-CSVT and IEEE T-MM, and holds more than ten granted Chinese and US patents.
