@@ -53,8 +53,8 @@ He has served as the principal investigator for the Youth Program of the Nationa
 ## 🏆 Honors & Awards
 - IEEE Senior Member，2026
 - Shenzhen High-Level Overseas Talent (Category C), 2019
-- Research Tuition Scholarship, City University of Hong Kong, Aug. 2016, Aug. 2017, Aug. 2018
-- Outstanding Academic Performance Award, City University of Hong Kong, Aug. 2017, Aug. 2018
+- Research Tuition Scholarship, City University of Hong Kong, 2016, 2017, 2018
+- Outstanding Academic Performance Award, City University of Hong Kong, 2017, 2018
 - Studentship, City University of Hong Kong, Jan. 2016 – Dec. 2018
 - Dean’s Scholarship, Shenzhen Institutes of Advanced Technology, CAS, 2013
 - National Postgraduate Scholarship, 2012
