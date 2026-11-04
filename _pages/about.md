@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Linwei Zhu, Associate Professor, Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS).
+Linwei Zhu, Associate Professor, **Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)**.
 
 
 His research focuses on multimedia signal processing and image/video coding, covering machine vision, underwater image/video enhancement and compression, 3D video coding and processing, virtual view synthesis, static and dynamic point cloud enhancement and compression.
