@@ -18,17 +18,17 @@ He has served as the principal investigator for the Youth Program of the Nationa
 
 
 ## 🎓 Education
-- Jan. 2016 – Feb. 2019, Ph.D., City University of Hong Kong. Supervisor: Prof. Sam Kwong (IEEE Fellow)
-- Sep. 2011 – Jun. 2013, Visiting Student, Shenzhen Institutes of Advanced Technology, CAS
-- Sep. 2010 – Jun. 2013, M.Eng., Ningbo University. Supervisors: Prof. Gangyi Jiang, Prof. Mei Yu
-- Sep. 2006 – Jun. 2010, B.Eng., Tianjin University of Technology
+- 2016.01 – 2019.02, Ph.D., City University of Hong Kong. Supervisor: Prof. Sam Kwong (IEEE Fellow)
+- 2011.09 – 2013.06, Visiting Student, Shenzhen Institutes of Advanced Technology, CAS
+- 2010.09 – 2013.06, M.Eng., Ningbo University. Supervisors: Prof. Gangyi Jiang, Prof. Mei Yu
+- 2006.09 – 2010.06, B.Eng., Tianjin University of Technology
 
 
 ## 💼 Work Experience
-- Dec. 2022 – Present, Associate Professor, Shenzhen Institutes of Advanced Technology, CAS
-- Jul. 2021 – Nov. 2022, Assistant Professor, Shenzhen Institutes of Advanced Technology, CAS
-- Nov. 2018 – Jun. 2021, Postdoctoral Fellow, Shenzhen Institutes of Advanced Technology, CAS. Co-supervisor: Prof. Yun Zhang
-- Jul. 2013 – Dec. 2015, Research Assistant, Shenzhen Institutes of Advanced Technology, CAS
+- 2022.12 – Present, Associate Professor, Shenzhen Institutes of Advanced Technology, CAS
+- 2021.07 – 2022.11, Assistant Professor, Shenzhen Institutes of Advanced Technology, CAS
+- 2018.11 – 2021.06, Postdoctoral Fellow, Shenzhen Institutes of Advanced Technology, CAS. Co-supervisor: Prof. Yun Zhang
+- 2013.07 – 2015.12, Research Assistant, Shenzhen Institutes of Advanced Technology, CAS
 
 
 ## 🚀 Research Interests
