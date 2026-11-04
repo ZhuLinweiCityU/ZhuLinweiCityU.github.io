@@ -66,14 +66,14 @@ He has served as the principal investigator for the Youth Program of the Nationa
 
 | Name | Affiliation | Enrollment | Degree | Main Outputs | Status / Next Affiliation |
 |------|----------|----------|------|--------------|---------------|
-| Chenyu Wei | SUSTech-Shenzhen University of Technology | Sep. 2026 | Master | — | Ongoing |
-| Yunxiang Yang | SUSTech-Shenzhen University of Technology | Sep. 2025 | Master | IEEE T-CSVT (Under review) | Ongoing |
-| Jintao Chen | Ningbo University | Sep. 2025 | Master | — | Ongoing |
-| Yuxiang Wu | Ningbo University | Sep. 2025 | Master | IEEE T-MM (Under review) | Ongoing |
-| Huanming Ling | Ningbo University | Sep. 2024 | Master | IEEE T-IP (Under review) | Ongoing |
-| Junhao Zhu | SUSTech-Shenzhen University of Technology | Sep. 2023 | Master | IEEE SPL, ACM TOMM | Graduated, Insta360 |
-| Ruxu Liang | University of Chinese Academy of Sciences | Sep. 2022 | Master | IEEE T-MM, IEEE SPL | Graduated, China Telecom (Guangzhou) |
-| Shiyu Feng | University of Chinese Academy of Sciences | Sep. 2021 | Master | IEEE T-BC, IEEE T-MM | Graduated, Ph.D. at City University of Hong Kong |
+| Chenyu Wei | SUSTech-SUAT | Sep. 2026 | Master | — | Ongoing |
+| Yunxiang Yang | SUSTech-SUAT | Sep. 2025 | Master | IEEE T-CSVT (Under review) | Ongoing |
+| Jintao Chen | NBU | Sep. 2025 | Master | — | Ongoing |
+| Yuxiang Wu | NBU | Sep. 2025 | Master | IEEE T-MM (Under review) | Ongoing |
+| Huanming Ling | NBU | Sep. 2024 | Master | IEEE T-IP (Under review) | Ongoing |
+| Junhao Zhu | SUSTech-SUAT | Sep. 2023 | Master | IEEE SPL, ACM TOMM | Graduated, Insta360 |
+| Ruxu Liang | UCAS | Sep. 2022 | Master | IEEE T-MM, IEEE SPL | Graduated, China Telecom (Guangzhou) |
+| Shiyu Feng | UCAS | Sep. 2021 | Master | IEEE T-BC, IEEE T-MM | Graduated, Ph.D. at City University of Hong Kong |
 
 
 ## 📝 10 Selected Publications (# corresponding author)
