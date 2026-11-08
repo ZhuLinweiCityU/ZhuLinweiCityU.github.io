@@ -1,7 +1,52 @@
----
-layout: default
----
-<div style="text-align:center; margin-top:4rem;">
-  <h2>{{ page.title }}</h2>
-  <p><a href="{{ page.pdf }}" target="_blank" style="font-size:1.2rem;">📄 Open PDF</a></p>
-</div>
+<!DOCTYPE html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.title | default: site.title }}">
+
+  <!-- 这个布局不继承主题的 default.html，所以没有 masthead、侧边栏、页脚 -->
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: #525659;      /* 和 Chrome PDF 阅读器同色，避免白边 */
+      overflow: hidden;
+    }
+    .pdf-frame {
+      position: fixed;
+      inset: 0;                 /* top/right/bottom/left = 0 */
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    /* 移动端 / 浏览器不支持内嵌 PDF 时的兜底出口 */
+    .pdf-fallback {
+      position: fixed;
+      right: 1rem;
+      bottom: 1rem;
+      z-index: 10;
+      background: rgba(0, 0, 0, .65);
+      color: #fff;
+      padding: .5rem .9rem;
+      border-radius: .4rem;
+      font: 14px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      text-decoration: none;
+    }
+    .pdf-fallback:hover { background: rgba(0, 0, 0, .85); }
+    @media print { .pdf-fallback { display: none; } }
+  </style>
+</head>
+<body>
+  {%- assign pdf_url = page.pdf | default: '' | relative_url -%}
+  <iframe class="pdf-frame"
+          src="{{ pdf_url }}#view=FitH"
+          title="{{ page.title | default: 'PDF' }}"></iframe>
+  <a class="pdf-fallback" href="{{ pdf_url }}" target="_blank" rel="noopener">
+    在新标签页打开 / Open PDF
+  </a>
+</body>
+</html>
