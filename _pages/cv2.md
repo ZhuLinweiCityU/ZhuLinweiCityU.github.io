@@ -1,7 +1,7 @@
 ---
 layout: pdf-only
 permalink: /cv2/
-author_profile: true
+title: "CV"
 pdf: "/files/zhulinwei-CV2026.pdf"
 ---
 
