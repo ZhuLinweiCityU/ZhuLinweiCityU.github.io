@@ -43,7 +43,7 @@
 <body>
   {%- assign pdf_url = page.pdf | default: '' | relative_url -%}
   <iframe class="pdf-frame"
-          src="{{ pdf_url }}#view=FitH"
+          src="{{ pdf_url }}#zoom=100"
           title="{{ page.title | default: 'PDF' }}"></iframe>
   <a class="pdf-fallback" href="{{ pdf_url }}" target="_blank" rel="noopener">
     在新标签页打开 / Open PDF
